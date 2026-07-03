@@ -1,0 +1,3996 @@
+{
+  "version": "1.1",
+  "game": "Star Citizen",
+  "actions": [
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "emergency_exit_seat",
+      "label": "Emergency Exit Seat",
+      "default": "U + Left Shift"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "eject",
+      "label": "Eject",
+      "default": "Right Alt + Y"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "look_behind",
+      "label": "Look behind",
+      "default": "Comma"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_mining_operator_mode",
+      "label": "Toggle Mining Operator Mode",
+      "default": "M"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_salvage_operator_mode",
+      "label": "Toggle Salvage Operator Mode",
+      "default": "M"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "gui_cirefueimode",
+      "label": "Gui_ciRefueIMode",
+      "default": "M"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_scanning_operator_mode",
+      "label": "Toggle Scanning Operator Mode",
+      "default": "v"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_quantum_operator_mode",
+      "label": "Toggle Quantum Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_missile_operator_mode",
+      "label": "Toggle Missile Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_guns_operator_mode",
+      "label": "Toggle Guns Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "toggle_flight_operator_mode",
+      "label": "Toggle Flight Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_mining_operator_mode",
+      "label": "Set Mining Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_salvage_operator_mode",
+      "label": "Set Salvage Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "gui_v_set_refuel_mode",
+      "label": "Gui_v_set_refuel_mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_scanning_operator_mode",
+      "label": "Set Scanning Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_quantum_operator_mode",
+      "label": "Set Quantum Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_missile_operator_mode",
+      "label": "Set Missile Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_guns_operator_mode",
+      "label": "Set Guns Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "set_flight_operator_mode",
+      "label": "Set Flight Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "enter_remote_turret_1",
+      "label": "Enter Remote Turret 1",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "enter_remote_turret_2",
+      "label": "Enter Remote Turret 2",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "enter_remote_turret_3",
+      "label": "Enter Remote Turret 3",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "next_operator_mode",
+      "label": "Next Operator Mode",
+      "default": "Button 3 (mouse)"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "previous_operator_mode",
+      "label": "Previous Operator Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "light_amplification_toggle",
+      "label": "Light Amplification Toggle",
+      "default": "Right Alt +L"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "light_amplification_on",
+      "label": "Light Amplification On",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_seats_and_operator_modes",
+      "id": "light_amplification_off",
+      "label": "Light Amplification Off",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "self_destruct",
+      "label": "Self Destruct",
+      "default": "Backspace"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "increase_cooler_rate",
+      "label": "Increase Cooler Rate",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "decrease_cooler_rate",
+      "label": "Decrease Cooler Rate",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "flight_systems_ready",
+      "label": "Flight / Systems Ready",
+      "default": "Right Alt + R"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "openclose_doors_toggle",
+      "label": "Open/Close Doors (Toggle)",
+      "default": "Numpad 0"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "open_all_doors",
+      "label": "Open All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "close_all_doors",
+      "label": "Close All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "lockunlock_doors_toggle",
+      "label": "Lock/Unlock Doors (Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "lock_all_doors",
+      "label": "Lock All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "unlock_all_doors",
+      "label": "Unlock All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "port_lock_toggle_all",
+      "label": "Port Lock Toggle All",
+      "default": "Right Alt + K"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "port_lock_all",
+      "label": "Port Lock All",
+      "default": "Left Alt + Numpad 0"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "port_unlock_all",
+      "label": "Port Unlock All",
+      "default": "Left Alt + Numpad 0"
+    },
+    {
+      "category": "vehicles_cockpit",
+      "id": "empty",
+      "label": "[Empty]",
+      "default": "."
+    },
+    {
+      "category": "vehicles_multi_function_displays_mfds",
+      "id": "mfo_cycle_page_forwards_short_press",
+      "label": "MFO Cycle Page Forwards (Short Press)",
+      "default": "Left Alt +E"
+    },
+    {
+      "category": "vehicles_multi_function_displays_mfds",
+      "id": "mfd_cycle_page_backwards_short_press",
+      "label": "MFD Cycle Page Backwards (Short Press)",
+      "default": "Left Alt +Q"
+    },
+    {
+      "category": "vehicles_multi_function_displays_mfds",
+      "id": "mfo_cycle_page_forwards_short_press",
+      "label": "MFO Cycle Page Forwards (Short Press)",
+      "default": "Left Alt +E"
+    },
+    {
+      "category": "vehicles_multi_function_displays_mfds",
+      "id": "mfd_cycle_page_backwards_short_press",
+      "label": "MFD Cycle Page Backwards (Short Press)",
+      "default": "Left Alt +Q"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "look_left",
+      "label": "Look left",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "look_right",
+      "label": "Look right",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "look_left_right",
+      "label": "Look left / right",
+      "default": "X-Axis (mouse)"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "look_up",
+      "label": "Look up",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "look_down",
+      "label": "Look down",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "look_up_down",
+      "label": "Look up / down",
+      "default": "Y-Axis (mouse)"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "cycle_camera_view",
+      "label": "Cycle camera view",
+      "default": "Fa"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "cycle_camera_orbit_mode",
+      "label": "Cycle camera orbit mode",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "zoom_in_3rd_person_view",
+      "label": "Zoom in (3rd person view)",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "zoom_out_3rd_person_view",
+      "label": "Zoom out (3rd person view)",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "freelook_hold",
+      "label": "Freelook (Hold)",
+      "default": "z"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "dynamic_zoom_in_and_qut_rel",
+      "label": "Dynamic Zoom In and Qut (rel.)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "dynamic_zoom_in_rel",
+      "label": "Dynamic Zoom In (rel.)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "dynamic_zoom_out_rel",
+      "label": "Dynamic Zoom Out (rel.",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "dynamic_zoom_toggle_abs",
+      "label": "Dynamic Zoom Toggle (abs.)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "precision_targeting_hold",
+      "label": "Precision Targeting Hold",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "precision_targeting_toggle_on_off",
+      "label": "Precision Targeting Toggle On / Off",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "precision_targeting_maximum_zoom_hold",
+      "label": "Precision Targeting Maximum Zoom (hold)",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "vehicles_view",
+      "id": "precision_targeting_toggle_camera_tracking",
+      "label": "Precision Targeting Toggle Camera Tracking",
+      "default": "Right Alt + Button 2 (mouse)"
+    },
+    {
+      "category": "flight_movement",
+      "id": "pitch_up",
+      "label": "Pitch up",
+      "default": "Down Arrow"
+    },
+    {
+      "category": "flight_movement",
+      "id": "pitch_down",
+      "label": "Pitch down",
+      "default": "Up Arrow"
+    },
+    {
+      "category": "flight_movement",
+      "id": "pitch",
+      "label": "Pitch",
+      "default": "Y-Axis (mouse)"
+    },
+    {
+      "category": "flight_movement",
+      "id": "yaw_left",
+      "label": "Yaw left",
+      "default": "Left Arrow"
+    },
+    {
+      "category": "flight_movement",
+      "id": "yaw_right",
+      "label": "Yaw right",
+      "default": "Right Arrow"
+    },
+    {
+      "category": "flight_movement",
+      "id": "yaw",
+      "label": "Yaw",
+      "default": "X-Axis (mouse)"
+    },
+    {
+      "category": "flight_movement",
+      "id": "roll_left",
+      "label": "Roll left",
+      "default": "Q"
+    },
+    {
+      "category": "flight_movement",
+      "id": "roll_right",
+      "label": "Roll right",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "roll",
+      "label": "Roll",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "cycle_mouse_mode_vjoy_relative",
+      "label": "Cycle mouse mode (VJoy / Relative)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "swap_yaw_roll_toggle",
+      "label": "Swap Yaw / Roll (Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "strafe_up_abs",
+      "label": "Strafe up (abs.)",
+      "default": "Spacebar"
+    },
+    {
+      "category": "flight_movement",
+      "id": "strafe_down_abs",
+      "label": "Strafe down (abs.)",
+      "default": "Left Ctrl"
+    },
+    {
+      "category": "flight_movement",
+      "id": "strafe_up_down_abs",
+      "label": "Strafe up / down (abs.)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "strafe_left_abs",
+      "label": "Strafe left (abs.)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "strafe_right_abs",
+      "label": "Strafe right (abs.)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_increase",
+      "label": "Throttle Increase",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_decrease",
+      "label": "Throttle Decrease",
+      "default": "s"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_forward_back_invert",
+      "label": "Throttle Forward / Back Invert",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_cruise_mode_toggle",
+      "label": "Throttle Cruise Mode Toggle",
+      "default": "Left Alt +C"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_cruise_mode_enable",
+      "label": "Throttle Cruise Mode Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_cruise_mode_disable",
+      "label": "Throttle Cruise Mode Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_set_long_press",
+      "label": "Throttle Trim Set (Long Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_set_short_press",
+      "label": "Throttle Trim Set (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_set_to_100_long_press",
+      "label": "Throttle Trim Set To 100% (Long Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_set_to_100_short_press",
+      "label": "Throttle Trim Set To 100% (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_set_to_50_long_press",
+      "label": "Throttle Trim Set To 50% (Long Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_set_to_50_short_press",
+      "label": "Throttle Trim Set To 50% (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_release_long_press",
+      "label": "Throttle Trim Release (Long Press)",
+      "default": "x"
+    },
+    {
+      "category": "flight_movement",
+      "id": "throttle_trim_release_short_press",
+      "label": "Throttle Trim Release (Short Press)",
+      "default": "x"
+    },
+    {
+      "category": "flight_movement",
+      "id": "enable_disable_decoupled_mode",
+      "label": "Enable / Disable decoupled mode",
+      "default": "c"
+    },
+    {
+      "category": "flight_movement",
+      "id": "enable_decoupled_mode",
+      "label": "Enable decoupled mode",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "disable_decoupled_mode",
+      "label": "Disable decoupled mode",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "boost",
+      "label": "Boost",
+      "default": "Left Shift"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_increase_hold",
+      "label": "Speed Limiter Increase (hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_decrease_hold",
+      "label": "Speed Limiter Decrease (hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_step_up_tap",
+      "label": "Speed Limiter Step Up (tap)",
+      "default": "Left Alt + Mouse Wheel Up"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_step_down_tap",
+      "label": "Speed Limiter Step Down (tap)",
+      "default": "Left Alt + Mouse Wheel Down"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_enable_disable",
+      "label": "Speed Limiter Enable / Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_enable",
+      "label": "Speed Limiter Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "speed_limiter_disable",
+      "label": "Speed Limiter Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "acceleration_limiter_increase_hold",
+      "label": "Acceleration Limiter Increase (hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "acceleration_limiter_decrease_hold",
+      "label": "Acceleration Limiter Decrease (hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "acceleration_limiter_step_up_tap",
+      "label": "Acceleration Limiter Step Up (tap)",
+      "default": "Right Alt + Mouse Wheel Up"
+    },
+    {
+      "category": "flight_movement",
+      "id": "acceleration_limiter_step_down_tap",
+      "label": "Acceleration Limiter Step Down (tap)",
+      "default": "Right Alt + Mouse Wheel Down"
+    },
+    {
+      "category": "flight_movement",
+      "id": "spacebrake",
+      "label": "Spacebrake",
+      "default": "x"
+    },
+    {
+      "category": "flight_movement",
+      "id": "lock_pitch_yaw_movement_toggle_hold",
+      "label": "Lock Pitch / Yaw Movement (Toggle / Hold)",
+      "default": "Right Shift"
+    },
+    {
+      "category": "flight_movement",
+      "id": "g_force_safety_on",
+      "label": "G-Force safety on",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "g_force_safety_off",
+      "label": "G-Force safety off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "g_force_safety_onoff_toggle_hold",
+      "label": "G-Force Safety On/Off (Toggle / Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "esp_toggle_on_off_press",
+      "label": "E.S.P. Toggle On / Off (Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "esp_enable_temporarily_hold",
+      "label": "E.S.P. Enable Temporarily (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "landing_system_toggle",
+      "label": "Landing System (Toggle)",
+      "default": "N"
+    },
+    {
+      "category": "flight_movement",
+      "id": "docking",
+      "label": "Docking",
+      "default": "Right Alt + N"
+    },
+    {
+      "category": "flight_movement",
+      "id": "landing_system_deploy",
+      "label": "Landing System (Deploy)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "landing_system_retract",
+      "label": "Landing System (Retract)",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "toggle_vtol",
+      "label": "Toggle VTOL",
+      "default": "K"
+    },
+    {
+      "category": "flight_movement",
+      "id": "enable_vtol",
+      "label": "Enable VTOL",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "disable_vtol",
+      "label": "Disable VTOL",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "expand_configuration",
+      "label": "Expand Configuration",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "retract_configuration",
+      "label": "Retract Configuration",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "cycle_configuration",
+      "label": "Cycle Configuration",
+      "default": "Left Alt +K"
+    },
+    {
+      "category": "flight_movement",
+      "id": "autoland",
+      "label": "Autoland",
+      "default": "Hold N"
+    },
+    {
+      "category": "flight_movement",
+      "id": "request_landing",
+      "label": "Request Landing",
+      "default": "Left Alt +N"
+    },
+    {
+      "category": "flight_movement",
+      "id": "request_cargo_loading",
+      "label": "Request Cargo Loading",
+      "default": "Right Alt + N"
+    },
+    {
+      "category": "flight_movement",
+      "id": "cycle_master_mode_short_press",
+      "label": "Cycle Master Mode (Short Press)",
+      "default": "B"
+    },
+    {
+      "category": "flight_movement",
+      "id": "cycle_master_mode_long_press",
+      "label": "Cycle Master Mode (Long Press)",
+      "default": "B"
+    },
+    {
+      "category": "flight_movement",
+      "id": "set_master_mode_to_nav",
+      "label": "Set Master Mode to Nav",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "set_master_mode_to_scm",
+      "label": "Set Master Mode to SCM",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "jump_drive_request_jump",
+      "label": "Jump Drive Request Jump",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "flight_movement",
+      "id": "fcs_gravity_compensation_toggle",
+      "label": "FCS Gravity Compensation Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_gravity_compensation_enable",
+      "label": "IFCS Gravity Compensation Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "fcs_gravity_compensation_disable",
+      "label": "FCS Gravity Compensation Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_wind_compensation_toggle",
+      "label": "IFCS Wind Compensation Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifs_wind_compensation_enable",
+      "label": "IFS Wind Compensation Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_wind_compensation_disable",
+      "label": "IFCS Wind Compensation Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "automatic_precision_mode_toggle",
+      "label": "Automatic Precision Mode Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "automatic_precision_mode_enable",
+      "label": "Automatic Precision Mode Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "automatic_precision_mode_disable",
+      "label": "Automatic Precision Mode Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_proximity_assist_toggle",
+      "label": "IFCS Proximity Assist Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "fcs_proximity_assist_enable",
+      "label": "FCS Proximity Assist Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_proximity_assist_disable",
+      "label": "IFCS Proximity Assist Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_stability_toggle",
+      "label": "IFCS Stability Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_stability_enable",
+      "label": "IFCS Stability Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_stability_disable",
+      "label": "IFCS Stability Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_command_behaviour_toggle",
+      "label": "IFCS Command Behaviour Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_command_behaviour_on",
+      "label": "IFCS Command Behaviour On",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_command_behaviour_off",
+      "label": "IFCS Command Behaviour Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_command_behaviour_off",
+      "label": "IFCS Command Behaviour Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_core_toggle_on_off",
+      "label": "IFCS Core Toggle On / Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_core_enable",
+      "label": "IFCS Core Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "ifcs_core_disable",
+      "label": "IFCS Core Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "reset_flight_accelerometer",
+      "label": "Reset Flight Accelerometer",
+      "default": "Right Alt + C"
+    },
+    {
+      "category": "flight_movement",
+      "id": "advanced_hud_toggle",
+      "label": "Advanced HUD Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "advanced_hud_enable",
+      "label": "Advanced HUD Enable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_movement",
+      "id": "advanced_hud_disable",
+      "label": "Advanced HUD Disable",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_quantum_travel",
+      "id": "engage_quantum_drive_hold",
+      "label": "Engage Quantum Drive (Hold)",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "flight_docking",
+      "id": "toggle_docking_mode",
+      "label": "Toggle Docking Mode",
+      "default": "N"
+    },
+    {
+      "category": "flight_docking",
+      "id": "invoke_docking",
+      "label": "Invoke Docking",
+      "default": "N"
+    },
+    {
+      "category": "flight_docking",
+      "id": "toggle_docking_camera",
+      "label": "Toggle Docking Camera",
+      "default": "O"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_targeting_toggle_onoff_long_press",
+      "label": "Auto Targeting Toggle On/Off (Long Press)",
+      "default": "T"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_targeting_toggle_onoff_short_press",
+      "label": "Auto Targeting Toggle On/Off (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_targeting_toggle_on_short_press",
+      "label": "Auto Targeting Toggle On (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_targeting_toggle_on_long_press",
+      "label": "Auto Targeting Toggle On (Long Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_targeting_toggle_off_short_press",
+      "label": "Auto Targeting Toggle Off (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_targeting_toggle_off_long_press",
+      "label": "Auto Targeting Toggle Off (Long Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_1_lock_unlock_pinned_target",
+      "label": "Pin Index 1 Lock / Unlock Pinned Target",
+      "default": "1.0"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_2_lock_unlock_pinned_target",
+      "label": "Pin Index 2 Lock / Unlock Pinned Target",
+      "default": "2.0"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_3_lock_unlock_pinned_target",
+      "label": "Pin Index 3 Lock / Unlock Pinned Target",
+      "default": "3.0"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_1_pin_unpin_selected_target",
+      "label": "Pin Index 1 Pin / Unpin Selected Target",
+      "default": "Left Alt +1"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_2_pin_unpin_selected_target",
+      "label": "Pin Index 2 Pin / Unpin Selected Target",
+      "default": "Left Alt +2"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_3_pin_unpin_selected_target",
+      "label": "Pin Index 3 Pin / Unpin Selected Target",
+      "default": "Left Alt +3"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_1_pin_unpin_selected_target_hold",
+      "label": "Pin Index 1 Pin / Unpin Selected Target (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_2_pin_unpin_selected_target_hold",
+      "label": "Pin Index 2 Pin / Unpin Selected Target (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_index_3_pin_unpin_selected_target_hold",
+      "label": "Pin Index 3 Pin / Unpin Selected Target (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_selected_target",
+      "label": "Pin Selected Target",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "unpin_selected_target",
+      "label": "Unpin Selected Target",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "pin_selected_target_hold",
+      "label": "Pin Selected Target (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "unpin_selected_target_hold",
+      "label": "Unpin Selected Target (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "remove_all_pinned_targets",
+      "label": "Remove All Pinned Targets",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "lock_selected_target",
+      "label": "Lock Selected Target",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "unlock_current_target",
+      "label": "Unlock Current Target",
+      "default": "Left Alt + T"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "enable_disable_look_ahead",
+      "label": "Enable / Disable Look Ahead",
+      "default": "Left Alt +L"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "enable_disable_target_padlock_toggle_hold",
+      "label": "Enable / Disable Target Padlock (Toggle, Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_targeting",
+      "id": "auto_zoom_on_selected_target_on_off_toggle_hold",
+      "label": "Auto Zoom On Selected Target On / Off (Toggle, Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "lock_target_under_reticle",
+      "label": "Lock Target Under Reticle",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_in_view_back",
+      "label": "Cycle Lock In View Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_in_view_forward",
+      "label": "Cycle Lock In View Forward",
+      "default": "T"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_in_view_under_reticle",
+      "label": "Cycle Lock In View Under Reticle",
+      "default": "T"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_pinned_back",
+      "label": "Cycle Lock Pinned Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_pinned_forward",
+      "label": "Cycle Lock Pinned Forward",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_pinned_reset_to_first",
+      "label": "Cycle Lock Pinned Reset to First",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_attackers_back",
+      "label": "Cycle Lock Attackers Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_attackers_forward",
+      "label": "Cycle Lock Attackers Forward",
+      "default": "4.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_attackers_reset_to_closest",
+      "label": "Cycle Lock Attackers Reset to Closest",
+      "default": "4.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_hostiles_back",
+      "label": "Cycle Lock Hostiles Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_hostiles_forward",
+      "label": "Cycle Lock Hostiles Forward",
+      "default": "5.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_hostiles_reset_to_closest",
+      "label": "Cycle Lock Hostiles Reset to Closest",
+      "default": "5.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_friendlies_back",
+      "label": "Cycle Lock Friendlies Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_friendlies_forward",
+      "label": "Cycle Lock Friendlies Forward",
+      "default": "6.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_friendlies_reset_to_closest",
+      "label": "Cycle Lock Friendlies Reset to Closest",
+      "default": "6.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_all_back",
+      "label": "Cycle Lock All Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_all_forward",
+      "label": "Cycle Lock All Forward",
+      "default": "7.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_all_reset_to_closest",
+      "label": "Cycle Lock All Reset to Closest",
+      "default": "7.0"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_sub_target_back",
+      "label": "Cycle Lock Sub-Target Back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_sub_target_forward",
+      "label": "Cycle Lock Sub-Target Forward",
+      "default": "R"
+    },
+    {
+      "category": "vehicles_target_cycling",
+      "id": "cycle_lock_sub_target_reset_to_main_target",
+      "label": "Cycle Lock Sub-Target Reset to Main Target",
+      "default": "Left Alt +R"
+    },
+    {
+      "category": "flight_target_hailing",
+      "id": "hail_target",
+      "label": "Hail Target",
+      "default": "9.0"
+    },
+    {
+      "category": "flight_target_hailing",
+      "id": "flight_radar",
+      "label": "Flight Radar",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_target_hailing",
+      "id": "activate_ping_hold_release",
+      "label": "Activate Ping (Hold & Release)",
+      "default": "Tab"
+    },
+    {
+      "category": "vehicles_scanning",
+      "id": "activate_scanning",
+      "label": "Activate Scanning",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "vehicles_scanning",
+      "id": "increase_scanning_angle",
+      "label": "Increase Scanning Angle",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "vehicles_scanning",
+      "id": "decrease_scanning_angle",
+      "label": "Decrease Scanning Angle",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "fire_mining_laser_toggle",
+      "label": "Fire Mining Laser (Toggle)",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "switch_mining_laser_toggle",
+      "label": "Switch Mining Laser (Toggle)",
+      "default": "Left Alt + Button 1 (mouse)"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "increase_mining_laser_power",
+      "label": "Increase Mining Laser Power",
+      "default": "Up Arrow"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "decrease_mining_laser_power",
+      "label": "Decrease Mining Laser Power",
+      "default": "Down Arrow"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "activate_mining_module_slot_1",
+      "label": "Activate Mining Module (Slot 1)",
+      "default": "Left Alt + 1"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "activate_mining_module_slot_2",
+      "label": "Activate Mining Module (Slot 2)",
+      "default": "Left Alt + 2"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "activate_mining_module_slot_3",
+      "label": "Activate Mining Module (Slot 3)",
+      "default": "Left Alt + 3"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "toggle_laser_beam_high_low",
+      "label": "Toggle Laser Beam (High / low)",
+      "default": "Left Alt + 4"
+    },
+    {
+      "category": "vehicles_mining",
+      "id": "jettison_cargo",
+      "label": "Jettison Cargo",
+      "default": "Left Alt + J"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "tractor_beam_vehicle_increase_distance",
+      "label": "Tractor Beam Vehicle- Increase Distance",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "tractor_beam_vehicle_decrease_distance",
+      "label": "Tractor Beam Vehicle Decrease Distance",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "toggle_fire_focused",
+      "label": "Toggle Fire Focused",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "toggle_fire_left",
+      "label": "Toggle Fire Left",
+      "default": "Right Alt +A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "toggle_fire_right",
+      "label": "Toggle Fire Right",
+      "default": "Right Alt + D"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "toggle_fire_fracture",
+      "label": "Toggle Fire Fracture",
+      "default": "Right Alt + W"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "toggle_fire_disintegrate",
+      "label": "Toggle Fire Disintegrate",
+      "default": "Right Alt +S"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "salvage_mode_gimbal_toggle",
+      "label": "Salvage Mode Gimbal (Toggle)",
+      "default": "G"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "salvage_mode_gimbal_reset",
+      "label": "Salvage Mode Gimbal Reset",
+      "default": "Left Alt+G"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "increase_beam_spacing",
+      "label": "Increase Beam Spacing",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "decrease_beam_spacing",
+      "label": "Decrease Beam Spacing",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "relative_beam_spacing",
+      "label": "Relative Beam Spacing",
+      "default": "Mouse Wheel"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "absolute_beam_spacing",
+      "label": "Absolute Beam Spacing",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "salvage_beam_axis_toggle",
+      "label": "Salvage Beam Axis (Toggle)",
+      "default": "Left Alt + Button 2 (mouse)"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "cycle_focused_salvage_modifiers",
+      "label": "Cycle Focused Salvage Modifiers",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "cycle_left_salvage_modifiers",
+      "label": "Cycle Left Salvage Modifiers",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "cycle_right_salvage_modifiers",
+      "label": "Cycle Right Salvage Modifiers",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "cycle_structural_salvage_modes",
+      "label": "Cycle Structural Salvage Modes",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "focus_all_salvage_heads",
+      "label": "Focus all salvage heads",
+      "default": "Left Alt +S"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "focus_left_salvage_head",
+      "label": "Focus left salvage head",
+      "default": "Left Alt+A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "focus_right_salvage_head",
+      "label": "Focus right salvage head",
+      "default": "Left Alt + D"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "focus_fracture_tool",
+      "label": "Focus Fracture tool",
+      "default": "Left Alt + W"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "focus_disintegration_tool",
+      "label": "Focus Disintegration tool",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_left_salvage_tool_up",
+      "label": "Nudge left salvage tool up",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_left_salvage_tool_down",
+      "label": "Nudge left salvage tool down",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_left_salvage_tool_left",
+      "label": "Nudge left salvage tool left",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_left_salvage_tool_right",
+      "label": "Nudge left salvage tool right",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_right_salvage_tool_up",
+      "label": "Nudge right salvage tool up",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_right_salvage_tool_down",
+      "label": "Nudge right salvage tool down",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_right_salvage_tool_left",
+      "label": "Nudge right salvage tool left",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_salvage",
+      "id": "nudge_right_salvage_tool_right",
+      "label": "Nudge right salvage tool right",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "pitch_up",
+      "label": "Pitch up",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "pitch_down",
+      "label": "Pitch down",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "pitch",
+      "label": "Pitch",
+      "default": "Y-Axis (mouse)"
+    },
+    {
+      "category": "turret_movement",
+      "id": "yaw_left",
+      "label": "Yaw left",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "yaw_right",
+      "label": "Yaw right",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "yaw",
+      "label": "Yaw",
+      "default": "X-Axis (mouse)"
+    },
+    {
+      "category": "turret_movement",
+      "id": "toggle_turret_mouse_movement_vjoy_fps_style",
+      "label": "Toggle Turret Mouse Movement (VJoy, FPS style)",
+      "default": "Q"
+    },
+    {
+      "category": "turret_movement",
+      "id": "turret_mouse_mode_cycle_modes",
+      "label": "Turret Mouse Mode Cycle Modes",
+      "default": "Q"
+    },
+    {
+      "category": "turret_movement",
+      "id": "turret_mouse_mode_vjoy_dragging",
+      "label": "Turret Mouse Mode VJoy Dragging",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "turret_mouse_mode_relative_dragging",
+      "label": "Turret Mouse Mode Relative Dragging",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "turret_mouse_mode_pointer",
+      "label": "Turret Mouse Mode Pointer",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_movement",
+      "id": "exit_remote_turret",
+      "label": "Exit Remote Turret",
+      "default": "Y"
+    },
+    {
+      "category": "turret_movement",
+      "id": "turret_gyro_stabilization_toggle",
+      "label": "Turret Gyro Stabilization (Toggle)",
+      "default": "E"
+    },
+    {
+      "category": "turret_movement",
+      "id": "next_remote_turret",
+      "label": "Next Remote Turret",
+      "default": "D"
+    },
+    {
+      "category": "turret_movement",
+      "id": "previous_remote_turret",
+      "label": "Previous Remote Turret",
+      "default": "A"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "turret_esp_toggle_on_off",
+      "label": "Turret E.S.P. Toggle On / Off",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "turret_esp_enable_temporarily_hold",
+      "label": "Turret E.S.P. Enable Temporarily (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "recenter_turret_hold",
+      "label": "Recenter Turret (Hold)",
+      "default": "C"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "turret_speed_limiter_onoff_holdtoggle",
+      "label": "Turret Speed Limiter On/Off (Hold/Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "turret_speed_limiter_rel",
+      "label": "Turret Speed Limiter (rel)",
+      "default": "lalt + Mouse Wheel"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "turret_speed_limiter_increase_rel",
+      "label": "Turret Speed Limiter Increase (rel)",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "turret_speed_limiter_decrease_rel",
+      "label": "Turret Speed Limiter Decrease (rel)",
+      "default": "N/A"
+    },
+    {
+      "category": "turret_advanced",
+      "id": "change_turret_position",
+      "label": "Change Turret Position",
+      "default": "S"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gimbal_state_toggle_locked_unlocked",
+      "label": "Gimbal State Toggle Locked / Unlocked",
+      "default": "G"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gimbal_state_set_locked",
+      "label": "Gimbal State Set Locked",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gimbal_state_set_unlocked",
+      "label": "Gimbal State Set Unlocked",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gimbal_state_unlocked_cycle_source_vjoy_view",
+      "label": "Gimbal State Unlocked Cycle Source (VJoy / View)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "aim_mode_cycle",
+      "label": "Aim Mode Cycle",
+      "default": "Right Alt + G"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "aim_mode_set_to_pip_aiming",
+      "label": "Aim Mode Set to PIP Aiming",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "aim_mode_set_to_painting",
+      "label": "Aim Mode Set to Painting",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "aim_mode_set_to_automatic",
+      "label": "Aim Mode Set to Automatic",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "staggered_fire_toggle_on_off",
+      "label": "Staggered Fire Toggle On / Off",
+      "default": "Right Alt +S"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "staggered_fire_on",
+      "label": "Staggered Fire On",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "staggered_fire_off",
+      "label": "Staggered Fire Off",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "suppress_aim_assists_hold",
+      "label": "Suppress Aim Assists (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "toggle_lead_lag_pips",
+      "label": "Toggle Lead / Lag PIPs",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "set_lag_pips",
+      "label": "Set Lag PIPs",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "set_lead_pips",
+      "label": "Set Lead PIPs",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_combination_type_toggle",
+      "label": "PIP Combination Type: Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_combination_type_set_one_pip_per_weapon",
+      "label": "PIP Combination Type: Set One PIP Per Weapon",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_combination_type_set_one_pip_per_weapon_type",
+      "label": "PIP Combination Type: Set One PIP Per Weapon Type",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_precision_lines_toggle",
+      "label": "PIP Precision Lines Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_precision_lines_on",
+      "label": "PIP Precision Lines On",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_precision_lines_off",
+      "label": "PIP Precision Lines Off",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_fading_toggle",
+      "label": "PIP Fading Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_fading_on",
+      "label": "PIP Fading On",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "pip_fading_off",
+      "label": "PIP Fading Off",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gunnery_ui_magnification_toggle",
+      "label": "Gunnery UI Magnification Toggle",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gunnery_ui_magnification_on",
+      "label": "Gunnery UI Magnification On",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "gunnery_ui_magnification_off",
+      "label": "Gunnery UI Magnification Off",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "manual_convergence_distance_rel",
+      "label": "Manual Convergence Distance (rel.)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "manual_convergence_distance_increase",
+      "label": "Manual Convergence Distance Increase",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "manual_convergence_distance_decrease",
+      "label": "Manual Convergence Distance Decrease",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "manual_convergence_distance_reset",
+      "label": "Manual Convergence Distance Reset",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_preset_fire",
+      "label": "Weapon Preset Fire",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_fire_guns_group_1",
+      "label": "Weapon Presets Fire Guns Group 1",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_fire_guns_group_2",
+      "label": "Weapon Presets Fire Guns Group 2",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_fire_guns_group_3",
+      "label": "Weapon Presets Fire Guns Group 3",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_fire_guns_group_4",
+      "label": "Weapon Presets Fire Guns Group 4",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_next",
+      "label": "Weapon Presets Next",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_previous",
+      "label": "Weapon Presets Previous",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_next_overflow",
+      "label": "Weapon Presets Next (Overflow)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_previous_overflow",
+      "label": "Weapon Presets Previous (Overflow)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_guns_group_1",
+      "label": "Weapon Presets Set Guns Group 1",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_guns_group_2",
+      "label": "Weapon Presets Set Guns Group 2",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_guns_group_3",
+      "label": "Weapon Presets Set Guns Group 3",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_guns_group_4",
+      "label": "Weapon Presets Set Guns Group 4",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_emps",
+      "label": "Weapon Presets Set EMPs",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_quantum_jammers_short_range",
+      "label": "Weapon Presets Set Quantum Jammers (short range)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_quantum_snares_pulse_long_range",
+      "label": "Weapon Presets Set Quantum Snares / Pulse (long range)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_weapons",
+      "id": "weapon_presets_set_qids",
+      "label": "Weapon Presets Set QIDs",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "launch_missiles_tap",
+      "label": "Launch Missiles (Tap)",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "launch_missiles_hold",
+      "label": "Launch Missiles (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "cycle_next_missile_type",
+      "label": "Cycle Next Missile Type",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "cycle_previous_missile_type",
+      "label": "Cycle Previous Missile Type",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "increase_number_of_armed_missiles",
+      "label": "Increase Number of Armed Missiles",
+      "default": "G"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "decrease_number_of_armed_missiles",
+      "label": "Decrease Number of Armed Missiles",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "reset_number_of_armed_missiles",
+      "label": "Reset Number of Armed Missiles",
+      "default": "Left Alt +G"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "bombs_toggle_desired_impact_point_tap",
+      "label": "Bombs Toggle Desired Impact Point (Tap)",
+      "default": "Left Alt + B"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "bombs_toggle_desired_impact_point_hold",
+      "label": "Bombs Toggle Desired Impact Point (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "bombs_increase_hud_range",
+      "label": "Bombs Increase HUD Range",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "bombs_decrease_hud_range",
+      "label": "Bombs Decrease HUD Range",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "bombs_reset_hud_range",
+      "label": "Bombs Reset HUD Range",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "enable_cinematic_camera_toggle",
+      "label": "Enable Cinematic Camera (Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_missiles",
+      "id": "enable_cinematic_camera_hold",
+      "label": "Enable Cinematic Camera (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "decoy_launch_burst_tap_set_and_launch_burst_hold",
+      "label": "Decoy Launch Burst (tap), Set and Launch Burst (hold)",
+      "default": "H"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "decoy_increase_burst_size_tap",
+      "label": "Decoy Increase Burst Size (tap)",
+      "default": "Right Alt + H"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "decoy_decrease_burst_size_tap",
+      "label": "Decoy Decrease Burst Size (tap)",
+      "default": "Left Alt +H"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "decoy_panic_launch_tap",
+      "label": "Decoy Panic Launch (tap)",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "noise_deploy_tap",
+      "label": "Noise Deploy (Tap)",
+      "default": "J"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_raise_level_front",
+      "label": "Shield raise level front",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_raise_level_back",
+      "label": "Shield raise level back",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_raise_level_left",
+      "label": "Shield raise level left",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_raise_level_right",
+      "label": "Shield raise level right",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_raise_level_top",
+      "label": "Shield raise level top",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_raise_level_bottom",
+      "label": "Shield raise level bottom",
+      "default": "N/A"
+    },
+    {
+      "category": "vehicles_shields_and_countermeasures",
+      "id": "shield_reset_levels",
+      "label": "Shield reset levels",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "toggle_power_all",
+      "label": "Toggle Power All",
+      "default": "U"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_power_on",
+      "label": "Set Power On",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_power_off",
+      "label": "Set Power Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "toggle_power_thrusters",
+      "label": "Toggle Power Thrusters",
+      "default": "|"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_thrusters_power_on",
+      "label": "Set Thrusters Power On",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_thrusters_power_off",
+      "label": "Set Thrusters Power Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "toggle_power_shields",
+      "label": "Toggle Power Shields",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_shields_power_on",
+      "label": "Set Shields Power On",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_shields_power_off",
+      "label": "Set Shields Power Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "toggle_power_weapons",
+      "label": "Toggle Power Weapons",
+      "default": "P"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_weapons_power_on",
+      "label": "Set Weapons Power On",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "set_weapons_power_off",
+      "label": "Set Weapons Power Off",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_power",
+      "id": "decrease_throttle",
+      "label": "Decrease Throttle",
+      "default": "Fg"
+    },
+    {
+      "category": "flight_power",
+      "id": "decrease_throttle_to_min",
+      "label": "Decrease Throttle to Min",
+      "default": "F9 (Double Tap)"
+    },
+    {
+      "category": "flight_power",
+      "id": "increase_throttle",
+      "label": "Increase Throttle",
+      "default": "F10"
+    },
+    {
+      "category": "flight_power",
+      "id": "increase_throttle_to_max",
+      "label": "Increase Throttle to Max",
+      "default": "F10 (Double Tap)"
+    },
+    {
+      "category": "flight_power",
+      "id": "engines_increase_tap",
+      "label": "Engines Increase (Tap)",
+      "default": "F6"
+    },
+    {
+      "category": "flight_power",
+      "id": "engines_decrease_tap",
+      "label": "Engines Decrease (Tap)",
+      "default": "F6 + Left Alt"
+    },
+    {
+      "category": "flight_power",
+      "id": "engines_set_to_max_hold",
+      "label": "Engines Set to Max (Hold)",
+      "default": "F6"
+    },
+    {
+      "category": "flight_power",
+      "id": "engines_set_to_min_hold",
+      "label": "Engines Set to Min (Hold)",
+      "default": "F6 + Left Alt"
+    },
+    {
+      "category": "flight_power",
+      "id": "shields_increase_tap",
+      "label": "Shields Increase (Tap)",
+      "default": "F7"
+    },
+    {
+      "category": "flight_power",
+      "id": "shields_decrease_tap",
+      "label": "Shields Decrease (Tap)",
+      "default": "F7 + Left Alt"
+    },
+    {
+      "category": "flight_power",
+      "id": "shields_set_to_max_hold",
+      "label": "Shields Set to Max (Hold)",
+      "default": "F7"
+    },
+    {
+      "category": "flight_power",
+      "id": "shields_set_to_min_hold",
+      "label": "Shields Set to Min (Hold)",
+      "default": "F7 + Left Alt"
+    },
+    {
+      "category": "flight_power",
+      "id": "weapons_increase_tap",
+      "label": "Weapons Increase (Tap)",
+      "default": "FS"
+    },
+    {
+      "category": "flight_power",
+      "id": "weapons_decrease_tap",
+      "label": "Weapons Decrease (Tap)",
+      "default": "FS + Left Alt"
+    },
+    {
+      "category": "flight_power",
+      "id": "weapons_set_to_max_hold",
+      "label": "Weapons Set to Max (Hold)",
+      "default": "FS"
+    },
+    {
+      "category": "flight_power",
+      "id": "weapons_set_to_min_hold",
+      "label": "Weapons Set to Min (Hold)",
+      "default": "FS + Left Alt"
+    },
+    {
+      "category": "flight_power",
+      "id": "reset_assignments",
+      "label": "Reset Assignments",
+      "default": "F8"
+    },
+    {
+      "category": "flight_hud",
+      "id": "cycle_pitch_ladder_mode",
+      "label": "Cycle Pitch Ladder Mode",
+      "default": "N/A"
+    },
+    {
+      "category": "flight_hud",
+      "id": "mobiglas_toggle",
+      "label": "mobiGlas (Toggle)",
+      "default": "Fl"
+    },
+    {
+      "category": "flight_hud",
+      "id": "scoreboard",
+      "label": "Scoreboard",
+      "default": "Fl"
+    },
+    {
+      "category": "flight_hud",
+      "id": "map",
+      "label": "Map",
+      "default": "F2"
+    },
+    {
+      "category": "flight_hud",
+      "id": "wipe_helmet_visor",
+      "label": "Wipe Helmet Visor",
+      "default": "Left Alt + X"
+    },
+    {
+      "category": "lights",
+      "id": "headlights_toggle",
+      "label": "Headlights (Toggle)",
+      "default": "L"
+    },
+    {
+      "category": "lights",
+      "id": "headlights",
+      "label": "Headlights",
+      "default": "N/A"
+    },
+    {
+      "category": "lights",
+      "id": "headlights",
+      "label": "Headlights",
+      "default": "N/A"
+    },
+    {
+      "category": "stop_watch",
+      "id": "reset_long_press",
+      "label": "Reset (Long Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "stop_watch",
+      "id": "start_pause_short_press",
+      "label": "Start / Pause (Short Press)",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "move_left",
+      "label": "Move Left",
+      "default": "A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "move_right",
+      "label": "Move Right",
+      "default": "D"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "move_forward",
+      "label": "Move Forward",
+      "default": "W"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "move_backwards",
+      "label": "Move Backwards",
+      "default": "S)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "jump",
+      "label": "Jump",
+      "default": "Spacebar"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "jump_thrusters_activate_hold",
+      "label": "Jump Thrusters Activate (hold)",
+      "default": "Spacebar"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "jump_thrusters_release",
+      "label": "Jump Thrusters Release",
+      "default": "Spacebar"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "crouch",
+      "label": "Crouch",
+      "default": "C"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "prone",
+      "label": "Prone",
+      "default": "Left Ctrl"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "sprint",
+      "label": "Sprint",
+      "default": "Left Shift"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "walk",
+      "label": "Walk",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "lean_left",
+      "label": "Lean Left",
+      "default": "A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "lean_right",
+      "label": "Lean Right",
+      "default": "E"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "climb_ledges",
+      "label": "Climb Ledges",
+      "default": "Spacebar"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "firearm_attack",
+      "label": "Firearm Attack",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "tool_secondary_fire",
+      "label": "Tool Secondary Fire",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_attack_light_left",
+      "label": "Melee Attack Light Left",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_attack_light_right",
+      "label": "Melee Attack Light Right",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_attack_heavy_left_hold",
+      "label": "Melee Attack Heavy Left (Hold)",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_attack_heavy_right_hold",
+      "label": "Melee Attack Heavy Right (Hold)",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_block_hold",
+      "label": "Melee Block (Hold)",
+      "default": "Button 1 (mouse) and Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "medical_pen_inject_other",
+      "label": "Medical Pen Inject Other",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "dodge_left",
+      "label": "Dodge left",
+      "default": "A (Double Tap)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "dodge_right",
+      "label": "Dodge Right",
+      "default": "D (Double Tap)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "dodge_back",
+      "label": "Dodge Back",
+      "default": "S (Double Tap)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_attack_ranged_weapon_takedowns",
+      "label": "Melee Attack (Ranged Weapon + Takedowns)",
+      "default": "Button 3 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "melee_attack_ranged_weapon_takedowns",
+      "label": "Melee Attack (Ranged Weapon + Takedowns)",
+      "default": "Button 3 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "throw_overarm_two_handed",
+      "label": "Throw Overarm & Two-Handed",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "throw_underarm",
+      "label": "Throw Underarm",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "aim_down_sight",
+      "label": "Aim Down Sight",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "interact_with_scope_ads",
+      "label": "Interact With Scope (ADS)",
+      "default": "Left Shift"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "weapon_stance_toggle",
+      "label": "Weapon Stance (Toggle)",
+      "default": "Left Alt +R"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "select_primary_weapon",
+      "label": "Select Primary Weapon",
+      "default": "1.0"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "select_secondary_weapon",
+      "label": "Select Secondary Weapon",
+      "default": "2.0"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "select_sidearm",
+      "label": "Select Sidearm",
+      "default": "3.0"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "select_melee",
+      "label": "Select Melee",
+      "default": "Vv"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "select_gadget",
+      "label": "Select Gadget",
+      "default": "5.0"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "unarmed_combat",
+      "label": "Unarmed Combat",
+      "default": "6.0"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "next_weapon",
+      "label": "Next Weapon",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "previous_weapon",
+      "label": "Previous Weapon",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "reload",
+      "label": "Reload",
+      "default": "R"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "reload_secondary_fire",
+      "label": "Reload Secondary Fire",
+      "default": "Left Alt +B"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "repool_ammunition",
+      "label": "Repool Ammunition",
+      "default": "Left Alt +1"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "holster_weapon",
+      "label": "Holster Weapon",
+      "default": "R"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "drop_item",
+      "label": "Drop Item",
+      "default": "Down Arrow"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "inspect_item",
+      "label": "Inspect Item",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "customize_weapon",
+      "label": "Customize Weapon",
+      "default": "J"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "hold_breath_ads",
+      "label": "Hold Breath (ADS)",
+      "default": "Left Shift"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "fps_underbarrel_attachment_action",
+      "label": "FPS Underbarrel Attachment Action",
+      "default": "U"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "change_fire_mode",
+      "label": "Change Fire Mode",
+      "default": "B"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "weapon_zeroing_decrease",
+      "label": "Weapon Zeroing Decrease",
+      "default": "Page Down"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "weapon_zeroing_increase_auto",
+      "label": "Weapon Zeroing Increase / Auto",
+      "default": "Page Up"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "default_movement_speed_increase",
+      "label": "Default Movement Speed Increase",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "default_movement_speed_decrease",
+      "label": "Default Movement Speed Decrease",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "request_rescue_while_incapacitated",
+      "label": "Request Rescue (while Incapacitated)",
+      "default": "M"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "flashlight_toggle",
+      "label": "Flashlight (Toggle)",
+      "default": "T"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "toggle_equip_helmet",
+      "label": "Toggle Equip Helmet",
+      "default": "Button 5 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "helmet",
+      "label": "Helmet",
+      "default": "Left Alt +H"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "default_movement_speed_increase",
+      "label": "Default Movement Speed Increase",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "wipe_helmet_visor",
+      "label": "Wipe Helmet Visor",
+      "default": "Left Alt + X"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "third_person_view_toggle",
+      "label": "Third Person View (Toggle)",
+      "default": "F4"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "free_view_camera_hold",
+      "label": "Free View Camera (Hold)",
+      "default": "F4"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "zoom_out",
+      "label": "Zoom Out",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "zoom_in",
+      "label": "Zoom In",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "mobiglas_toggle",
+      "label": "mobiGlas (Toggle)",
+      "default": "Fl"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "recall_last_vehicle",
+      "label": "Recall Last Vehicle",
+      "default": "N/A"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "scoreboard",
+      "label": "Scoreboard",
+      "default": "Fl"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "firearm_attack",
+      "label": "Firearm Attack",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "port_modification_interact",
+      "label": "Port Modification Interact",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "map",
+      "label": "Map",
+      "default": "Fe"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "force_re_spawn_eva_on_foot",
+      "label": "Force Re-spawn (E.V.A. / On Foot)",
+      "default": "Backspace"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "force_re_spawn_eva_on_foot",
+      "label": "Force Re-spawn (E.V.A. / On Foot)",
+      "default": "Backspace"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "roll_left_while_prone",
+      "label": "Roll Left (while Prone)",
+      "default": "Q (Double Tap)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "roll_right_while_prone",
+      "label": "Roll Right (while Prone)",
+      "default": "E (Double Tap)"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "tractor_beam_increase_distance",
+      "label": "Tractor Beam Increase Distance",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "tractor_beam_decrease_distance",
+      "label": "Tractor Beam Decrease Distance",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "on_foot_all",
+      "id": "regen_while_incapacitated",
+      "label": "Regen (while Incapacitated)",
+      "default": "Backspace"
+    },
+    {
+      "category": "eva_all",
+      "id": "view_left",
+      "label": "View Left",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "view_right",
+      "label": "View Right",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "view_leftright",
+      "label": "View Left/Right",
+      "default": "X-Axis (mouse)"
+    },
+    {
+      "category": "eva_all",
+      "id": "view_up",
+      "label": "View Up",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "view_down",
+      "label": "View Down",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "view_updown",
+      "label": "View Up/Down",
+      "default": "Y-Axis (mouse)"
+    },
+    {
+      "category": "eva_all",
+      "id": "roll_left",
+      "label": "Roll Left",
+      "default": "Q"
+    },
+    {
+      "category": "eva_all",
+      "id": "roll_right",
+      "label": "Roll Right",
+      "default": "E"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_up",
+      "label": "Strafe Up",
+      "default": "Spacebar"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_down",
+      "label": "Strafe Down",
+      "default": "Left Ctrl"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_updown",
+      "label": "Strafe Up/Down",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_left",
+      "label": "Strafe Left",
+      "default": "A"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_right",
+      "label": "Strafe Right",
+      "default": "D"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_leftright",
+      "label": "Strafe Left/Right",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_forward",
+      "label": "Strafe Forward",
+      "default": "Ww"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_backward",
+      "label": "Strafe Backward",
+      "default": "iS)"
+    },
+    {
+      "category": "eva_all",
+      "id": "strafe_forwardbackward",
+      "label": "Strafe Forward/Backward",
+      "default": "N/A"
+    },
+    {
+      "category": "eva_all",
+      "id": "brake",
+      "label": "Brake",
+      "default": "X"
+    },
+    {
+      "category": "eva_all",
+      "id": "boost",
+      "label": "Boost",
+      "default": "Left Shift"
+    },
+    {
+      "category": "eva_all",
+      "id": "freelook_hold",
+      "label": "Freelook (Hold)",
+      "default": "Z"
+    },
+    {
+      "category": "eva_zero_g_traversal",
+      "id": "launch_from_surface",
+      "label": "Launch from Surface",
+      "default": "Spacebar"
+    },
+    {
+      "category": "eva_zero_g_traversal",
+      "id": "detach_from_surface",
+      "label": "Detach from Surface",
+      "default": "Y"
+    },
+    {
+      "category": "eva_zero_g_traversal",
+      "id": "roll_left",
+      "label": "Roll Left",
+      "default": "Q"
+    },
+    {
+      "category": "eva_zero_g_traversal",
+      "id": "roll_right",
+      "label": "Roll Right",
+      "default": "E"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "horn",
+      "label": "Horn",
+      "default": "Spacebar"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "cycle_camera_view",
+      "label": "Cycle camera view",
+      "default": "F4"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "zoom_in_3rd_person_view",
+      "label": "Zoom in (3rd person view)",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "zoom_out_3rd_person_view",
+      "label": "Zoom out (3rd person view)",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "look_left_right",
+      "label": "Look left / right",
+      "default": "X-Axis (mouse)"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "look_up_down",
+      "label": "Look up / down",
+      "default": "Y-Axis (mouse)"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "freelook_hold",
+      "label": "Freelook (Hold)",
+      "default": "Z"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "mobiglas_toggle",
+      "label": "mobiGlas (Toggle)",
+      "default": "F1"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "flight_systems_ready",
+      "label": "Flight / Systems Ready",
+      "default": "Right Alt +R"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "openclose_doors_toggle",
+      "label": "Open/Close Doors (Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "open_all_doors",
+      "label": "Open All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "close_all_doors",
+      "label": "Close All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "lockunlock_doors_toggle",
+      "label": "Lock/Unlock Doors (Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "lock_all_doors",
+      "label": "Lock All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "unlock_all_doors",
+      "label": "Unlock All Doors",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "port_lock_toggle_all",
+      "label": "Port Lock Toggle All",
+      "default": "Right Alt + K"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "port_lock_all",
+      "label": "Port Lock All",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "port_unlock_all",
+      "label": "Port Unlock All",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "map",
+      "label": "Map",
+      "default": "F2"
+    },
+    {
+      "category": "ground_vehicle_general",
+      "id": "wipe_helmet_visor",
+      "label": "Wipe Helmet Visor",
+      "default": "Left Alt + X"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "drive_forward",
+      "label": "Drive Forward",
+      "default": "W"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "drive_backward",
+      "label": "Drive Backward",
+      "default": "iS)"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "turn_left",
+      "label": "Turn Left",
+      "default": "A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "turn_right",
+      "label": "Turn Right",
+      "default": "D"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "yaw_left_right_mouse",
+      "label": "Yaw Left / Right (Mouse)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "ground_vehicles_pitch_up",
+      "label": "Ground Vehicles Pitch Up",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "ground_vehicles_pitch_down",
+      "label": "Ground Vehicles Pitch Down",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "pitch_up_down_mouse",
+      "label": "Pitch Up / Down (Mouse)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "brake",
+      "label": "Brake",
+      "default": "X"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "dynamic_zoom_in_and_out_rel",
+      "label": "Dynamic Zoom In and Out (rel.)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "dynamic_zoom_in_rel",
+      "label": "Dynamic Zoom In (rel.)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "dynamic_zoom_out_rel",
+      "label": "Dynamic Zoom Out (rel.)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "dynamic_zoom_in_and_out_abs",
+      "label": "Dynamic Zoom In and Out (abs.)",
+      "default": "N/A"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "boost",
+      "label": "Boost",
+      "default": "Left Shift"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "lock_pitch_yaw_movement_toggle_hold",
+      "label": "Lock Pitch / Yaw Movement (Toggle / Hold)",
+      "default": "Right Shift"
+    },
+    {
+      "category": "ground_vehicle_movement",
+      "id": "toggle_auto_braking_on_idle",
+      "label": "Toggle Auto Braking On Idle",
+      "default": "C"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_target_next",
+      "label": "Spectator Camera Target (Next)",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_target_previous",
+      "label": "Spectator Camera Target (Previous)",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_lock_target",
+      "label": "Spectator Camera Lock Target",
+      "default": "1.0"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_zoom",
+      "label": "Spectator Camera Zoom",
+      "default": "Mouse Wheel"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_zoom_in",
+      "label": "Spectator Camera Zoom In",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_zoom_out",
+      "label": "Spectator Camera Zoom Out",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_rotate_yaw",
+      "label": "Spectator Camera Rotate Yaw",
+      "default": "X-Axis (mouse)"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_rotate_pitch",
+      "label": "Spectator Camera Rotate Pitch",
+      "default": "Y-Axis (mouse)"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_rotate_yaw",
+      "label": "Spectator Camera Rotate Yaw",
+      "default": "N/A"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_rotate_pitch",
+      "label": "Spectator Camera Rotate Pitch",
+      "default": "N/A"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_hud_toggle",
+      "label": "Spectator Camera HUD (Toggle)",
+      "default": "B"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_mode_next",
+      "label": "Spectator Camera Mode (Next)",
+      "default": "F4"
+    },
+    {
+      "category": "electronic_access_spectator",
+      "id": "spectator_camera_mode_previous",
+      "label": "Spectator Camera Mode (Previous)",
+      "default": "N/A"
+    },
+    {
+      "category": "social_general",
+      "id": "re_spawn",
+      "label": "Re-spawn",
+      "default": "F"
+    },
+    {
+      "category": "social_general",
+      "id": "exit_seat",
+      "label": "Exit seat",
+      "default": "Y"
+    },
+    {
+      "category": "social_general",
+      "id": "notifications_accept_prompt",
+      "label": "Notifications Accept Prompt",
+      "default": "Left Bracket"
+    },
+    {
+      "category": "social_general",
+      "id": "notifications_decline_prompt",
+      "label": "Notifications Decline Prompt",
+      "default": "Right Bracket"
+    },
+    {
+      "category": "social_general",
+      "id": "commlink_app_toggle",
+      "label": "CommLink App (Toggle)",
+      "default": "F11"
+    },
+    {
+      "category": "social_general",
+      "id": "chat_window_toggle",
+      "label": "Chat Window (Toggle)",
+      "default": "F12"
+    },
+    {
+      "category": "social_general",
+      "id": "cycle_chat_lobby",
+      "label": "Cycle Chat Lobby",
+      "default": "Tab"
+    },
+    {
+      "category": "social_general",
+      "id": "chat_window_focus",
+      "label": "Chat Window Focus",
+      "default": "Return"
+    },
+    {
+      "category": "social_invites",
+      "id": "accept_invite",
+      "label": "Accept Invite",
+      "default": "Left Bracket"
+    },
+    {
+      "category": "social_invites",
+      "id": "reject_invite",
+      "label": "Reject Invite",
+      "default": "Right Bracket"
+    },
+    {
+      "category": "social_invites",
+      "id": "ignore_invite_hold",
+      "label": "Ignore Invite (hold)",
+      "default": "Right Bracket"
+    },
+    {
+      "category": "social_emotes",
+      "id": "forward",
+      "label": "Forward",
+      "default": "Numpad 5"
+    },
+    {
+      "category": "social_emotes",
+      "id": "left",
+      "label": "Left",
+      "default": "Numpad 1"
+    },
+    {
+      "category": "social_emotes",
+      "id": "right",
+      "label": "Right",
+      "default": "Numpad 3"
+    },
+    {
+      "category": "social_emotes",
+      "id": "stop",
+      "label": "Stop",
+      "default": "Numpad 2"
+    },
+    {
+      "category": "social_emotes",
+      "id": "yes",
+      "label": "Yes",
+      "default": "Numpad 4"
+    },
+    {
+      "category": "social_emotes",
+      "id": "no",
+      "label": "No",
+      "default": "Numpad 6"
+    },
+    {
+      "category": "social_emotes",
+      "id": "agree",
+      "label": "Agree",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "angry",
+      "label": "Angry",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "at_ease",
+      "label": "At Ease",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "attention",
+      "label": "Attention",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "blah",
+      "label": "Blah",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "bored",
+      "label": "Bored",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "bow",
+      "label": "Bow",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "burp",
+      "label": "Burp",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "cheer",
+      "label": "Cheer",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "chicken",
+      "label": "Chicken",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "clap",
+      "label": "Clap",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "come",
+      "label": "Come",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "cry",
+      "label": "Cry",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "dance",
+      "label": "Dance",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "disagree",
+      "label": "Disagree",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "failure",
+      "label": "Failure",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "flex",
+      "label": "Flex",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "flirt",
+      "label": "Flirt",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "gasp",
+      "label": "Gasp",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "gloat",
+      "label": "Gloat",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "greet",
+      "label": "Greet",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "laugh",
+      "label": "Laugh",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "confirm_launch",
+      "label": "Confirm Launch",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "point",
+      "label": "Point",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "rude",
+      "label": "Rude",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "salute",
+      "label": "Salute",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "sit",
+      "label": "Sit",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "sleep",
+      "label": "Sleep",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "smell",
+      "label": "Smell",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "taunt",
+      "label": "Taunt",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "threaten",
+      "label": "Threaten",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "wait",
+      "label": "Wait",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "wave",
+      "label": "Wave",
+      "default": "N/A"
+    },
+    {
+      "category": "social_emotes",
+      "id": "whistle",
+      "label": "Whistle",
+      "default": "N/A"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "experimental_vr_toggle_on_off",
+      "label": "[Experimental] VR Toggle On / Off",
+      "default": "Numpad /"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "experimental_vr_recenter_device",
+      "label": "[Experimental] VR Recenter Device",
+      "default": "Numpad 5"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "experimental_vr_toggle_theater_mode",
+      "label": "[Experimental] VR Toggle Theater Mode",
+      "default": "Left Alt + Numpad 5"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "experimental_vr_visor_toggle_on_off",
+      "label": "[Experimental] VR Visor Toggle On / Off",
+      "default": "N/A"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "enable_head_tracking_toggle",
+      "label": "Enable Head Tracking (Toggle)",
+      "default": "Numpad /"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "head_tracking_hold",
+      "label": "Head Tracking (Hold)",
+      "default": "N/A"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "recenter_head_tracking_device_except_trackir",
+      "label": "Recenter Head Tracking Device (except TrackIR)",
+      "default": "Numpad 5"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "enable_disable_head_tracking_for_3rd_person_camera_toggle",
+      "label": "Enable / Disable Head Tracking for 3rd Person Camera (Toggle)",
+      "default": "N/A"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "voip_push_to_talk",
+      "label": "VOIP Push To Talk",
+      "default": "N/A"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "voip_push_to_talk_proximity_only",
+      "label": "VOIP Push To Talk (Proximity only)",
+      "default": "Left Alt + Numpad +"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "foip_selfie_cam",
+      "label": "FOIP Selfie Cam",
+      "default": "Numpad 0"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "foip_recalibrate",
+      "label": "FOIP Recalibrate",
+      "default": "Numpad *"
+    },
+    {
+      "category": "voip_foip_and_head_tracking",
+      "id": "cycle_through_audio_channels",
+      "label": "Cycle through audio channels",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "interaction_mode",
+      "label": "Interaction Mode",
+      "default": "F"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "activate_inner_thought",
+      "label": "Activate Inner Thought",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "activate_inner_thought",
+      "label": "Activate Inner Thought",
+      "default": "Button 1 (mouse)"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "focus",
+      "label": "Focus",
+      "default": "Button 3 (mouse)"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "interaction_mode_zoom_in",
+      "label": "Interaction Mode Zoom In",
+      "default": "Mouse Wheel Up"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "interaction_mode_zoom_out",
+      "label": "Interaction Mode Zoom Out",
+      "default": "Mouse Wheel Down"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "mfd_left",
+      "label": "MFD Left",
+      "default": "A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "mfd_right",
+      "label": "MFD Right",
+      "default": "D"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "mfd_up",
+      "label": "MFD Up",
+      "default": "W"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "mfd_down",
+      "label": "MFD Down",
+      "default": "iS)"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "personal_inner_thought_pit",
+      "label": "Personal Inner Thought (PIT)",
+      "default": "Left Alt + F"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "inventory_orbit_camera_mode",
+      "label": "Inventory Orbit Camera Mode",
+      "default": "Button 2 (mouse)"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "exit",
+      "label": "Exit",
+      "default": "Numpad 0"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "toggle_inventory_short_press",
+      "label": "Toggle Inventory (short press)",
+      "default": "|"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "toogle_loot_screen_hold",
+      "label": "Toogle Loot Screen (hold)",
+      "default": "I"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "toggle_looting_view",
+      "label": "Toggle Looting View",
+      "default": "Tab"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "toggle_looting_view",
+      "label": "Toggle Looting View",
+      "default": "Tab"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "looting_toggle_weapon_attachments",
+      "label": "Looting Toggle Weapon Attachments",
+      "default": "Q"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "drop_item",
+      "label": "Drop Item",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "store_all_commodities",
+      "label": "Store All Commodities",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "player_actions_pit_category",
+      "label": "Player Actions PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "emotes_pit_category",
+      "label": "Emotes PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "ship_systems_pit_category",
+      "label": "Ship Systems PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "flight_systems_pit_category",
+      "label": "Flight Systems PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "vehicle_actions_pit_category",
+      "label": "Vehicle Actions PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "weapon_systems_pit_category",
+      "label": "Weapon Systems PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "remote_turret_pit_category",
+      "label": "Remote Turret PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "item_actions_pit_category",
+      "label": "Item Actions PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "weapon_selection_pit_category",
+      "label": "Weapon Selection PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "mobiglas_actions_pit_category",
+      "label": "Mobiglas Actions PIT Category",
+      "default": "N/A"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "mining_mode_actions_pit_category",
+      "label": "Mining Mode Actions PIT Category",
+      "default": "Left Alt+M"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "weapon_select_radial_menu",
+      "label": "Weapon Select Radial Menu",
+      "default": "1.0"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "weapon_select_radial_menu",
+      "label": "Weapon Select Radial Menu",
+      "default": "1.0"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "weapon_select_radial_menu",
+      "label": "Weapon Select Radial Menu",
+      "default": "2.0"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "throwable_select_radial_menu",
+      "label": "Throwable Select Radial Menu",
+      "default": "G"
+    },
+    {
+      "category": "quick_keys_interactions_and_inner_thought",
+      "id": "consumable_select_radial_menu",
+      "label": "Consumable Select Radial Menu",
+      "default": "4.0"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "advanced_camera_controls_modifier_hold",
+      "label": "Advanced Camera Controls Modifier (Hold)",
+      "default": "F4"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_1",
+      "label": "Load View 1",
+      "default": "Hold F4 + Tap Numpad 1"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_2",
+      "label": "Load View 2",
+      "default": "Hold F4 + Tap Numpad 2"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_3",
+      "label": "Load View 3",
+      "default": "Hold F4 + Tap Numpad 3"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_4",
+      "label": "Load View 4",
+      "default": "Hold F4 + Tap Numpad 4"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_5",
+      "label": "Load View 5",
+      "default": "Hold F4 + Tap Numpad 5"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_6",
+      "label": "Load View 6",
+      "default": "Hold F4 + Tap Numpad 6"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_7",
+      "label": "Load View 7",
+      "default": "Hold F4 + Tap Numpad 7"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_8",
+      "label": "Load View 8",
+      "default": "Hold F4 + Tap Numpad 8"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "load_view_9",
+      "label": "Load View 9",
+      "default": "Hold F4 + Tap Numpad 9"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "clear_saved_view",
+      "label": "Clear Saved View",
+      "default": "F4 + Numpad 0"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "x_offset_positive",
+      "label": "X Offset Positive",
+      "default": "Right Arrow"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "x_offset_negative",
+      "label": "X Offset Negative",
+      "default": "Left Arrow"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "y_offset_positive_spectator_freecam_focal_point_forward",
+      "label": "Y Offset Positive / Spectator Freecam Focal Point Forward",
+      "default": "Up Arrow"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "y_offset_negative_spectator_freecam_focal_point_backward",
+      "label": "Y Offset Negative / Spectator Freecam Focal Point Backward",
+      "default": "Down Arrow"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "z_offset_positive",
+      "label": "Z Offset Positive",
+      "default": "Page Up"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "z_offset_negative",
+      "label": "Z Offset Negative",
+      "default": "Page Down"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "increase_fov",
+      "label": "Increase FoV",
+      "default": "Numpad +"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "decrease_fov",
+      "label": "Decrease FoV",
+      "default": "Numpad -"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "increase_dof",
+      "label": "Increase DoF",
+      "default": "Home"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "decrease_dof",
+      "label": "Decrease DoF",
+      "default": "End"
+    },
+    {
+      "category": "camera_advanced_camera_controls",
+      "id": "reset_current_view",
+      "label": "Reset Current View",
+      "default": "Numpad *"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "config": {
+    "columns": 18,
+    "rows": 8,
+    "background_image": "server/assets\\bg.png"
+  },
+  "pages": [
+    {
+      "name": "Pilot",
+      "buttons": [
+        {
+          "id": "BTN_8466",
+          "label": "Landing Gear",
+          "position": [
+            0,
+            2
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Landing_gear.png",
+          "image_pressed": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Landing_gear_press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_2042",
+          "label": "Cycle Master Mode (Short Press)",
+          "position": [
+            0,
+            4
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "game": "Starcitizen",
+          "image": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Spool.png",
+          "image_pressed": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Spool_Press.png"
+        },
+        {
+          "id": "BTN_6069",
+          "label": "Helmet",
+          "position": [
+            6,
+            16
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Helmet.png",
+          "image_pressed": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Helmet_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_5860",
+          "label": "Request Landing",
+          "position": [
+            0,
+            0
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Hanger.png",
+          "image_pressed": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Hanger_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_8868",
+          "label": "Engage Quantum Drive (Hold)",
+          "position": [
+            0,
+            6
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "server/assets/Quant.png",
+          "image_pressed": "server/assets/Quant_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_4623",
+          "label": "Doors (Toggle)",
+          "position": [
+            6,
+            14
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "server/assets/button.png",
+          "image_pressed": "server/assets/button_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_8558",
+          "label": "New",
+          "position": [
+            4,
+            6
+          ],
+          "size": [
+            1,
+            1
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_press.png"
+        }
+      ],
+      "columns": 18,
+      "rows": 8,
+      "background_image": "server/assets\\SC GLAD.png"
+    },
+    {
+      "name": "Turret gun",
+      "columns": 18,
+      "rows": 9,
+      "buttons": [
+        {
+          "id": "BTN_4013",
+          "label": "Gimbal Toggle",
+          "position": [
+            0,
+            0
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "game": "Starcitizen",
+          "image": "server/assets/button.png",
+          "image_pressed": "server/assets/button_Press.png"
+        },
+        {
+          "id": "BTN_7666",
+          "label": "Aim Mode Cycle",
+          "position": [
+            0,
+            2
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "game": "Starcitizen",
+          "image": "server/assets/button.png",
+          "image_pressed": "server/assets/button_Press.png"
+        },
+        {
+          "id": "BTN_3465",
+          "label": "Staggered Fire Toggle",
+          "position": [
+            0,
+            4
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "server/assets/button.png",
+          "image_pressed": "server/assets/button_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_6932",
+          "label": "Auto Targeting",
+          "position": [
+            0,
+            6
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "game": "Starcitizen",
+          "image": "server/assets/button.png",
+          "image_pressed": "server/assets/button_Press.png"
+        },
+        {
+          "id": "BTN_6004",
+          "label": "Hostiles Next",
+          "position": [
+            0,
+            10
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_3068",
+          "label": "Attackers Next",
+          "position": [
+            0,
+            12
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png",
+          "game": "Starcitizen"
+        }
+      ],
+      "background_image": "server/assets\\SC GLAD.png"
+    },
+    {
+      "name": "Dog Fighting",
+      "buttons": [
+        {
+          "id": "BTN_1498",
+          "label": "",
+          "position": [
+            0,
+            16
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "game": "Starcitizen",
+          "image": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Spool.png",
+          "image_pressed": "C:\\Users\\synta\\Desktop\\desktop stuff\\Games\\TCD\\server/assets\\Spool_Press.png"
+        },
+        {
+          "id": "BTN_2510",
+          "label": "",
+          "position": [
+            2,
+            16
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "server/assets/Quant.png",
+          "image_pressed": "server/assets/Quant_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_2693",
+          "label": "New",
+          "position": [
+            2,
+            2
+          ],
+          "size": [
+            1,
+            2
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        },
+        {
+          "id": "BTN_5661",
+          "label": "New",
+          "position": [
+            3,
+            4
+          ],
+          "size": [
+            2,
+            1
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        },
+        {
+          "id": "BTN_2195",
+          "label": "New",
+          "position": [
+            5,
+            2
+          ],
+          "size": [
+            1,
+            2
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        },
+        {
+          "id": "BTN_6452",
+          "label": "New",
+          "position": [
+            3,
+            1
+          ],
+          "size": [
+            2,
+            1
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        },
+        {
+          "id": "BTN_7088",
+          "label": "",
+          "position": [
+            3,
+            2
+          ],
+          "size": [
+            2,
+            2
+          ],
+          "image": "server/assets/Shelds_Normal.png",
+          "image_pressed": "server/assets/Shelds_Normal_Press.png",
+          "game": "Starcitizen"
+        },
+        {
+          "id": "BTN_3334",
+          "label": "New",
+          "position": [
+            1,
+            2
+          ],
+          "size": [
+            1,
+            2
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        },
+        {
+          "id": "BTN_9235",
+          "label": "New",
+          "position": [
+            6,
+            2
+          ],
+          "size": [
+            1,
+            2
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        },
+        {
+          "id": "BTN_1118",
+          "label": "Wepons",
+          "position": [
+            1,
+            9
+          ],
+          "size": [
+            6,
+            5
+          ],
+          "image": "editor/placeholder_buttons/button.png",
+          "image_pressed": "editor/placeholder_buttons/button_Press.png"
+        }
+      ],
+      "columns": 18,
+      "rows": 8,
+      "background_image": "server/assets\\SC GLAD.png"
+    },
+    {
+      "name": "Self Destruct",
+      "columns": 18,
+      "rows": 8,
+      "buttons": [
+        {
+          "id": "BTN_2105",
+          "label": "",
+          "position": [
+            3,
+            7
+          ],
+          "size": [
+            4,
+            4
+          ],
+          "image": "server/assets/SD_Button.png",
+          "image_pressed": "server/assets/SD_Button_Press.png",
+          "game": "Starcitizen"
+        }
+      ],
+      "background_image": "server/assets/SD_back.png"
+    }
+  ],
+  "actions": {
+    "BTN_8558": {
+      "on_press": {
+        "type": "website",
+        "value": "google.com"
+      },
+      "on_release": null
+    }
+  }
+}

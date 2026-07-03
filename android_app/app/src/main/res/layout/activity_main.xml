@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@color/sc_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp"
+        android:background="@color/sc_header_bg"
+        android:padding="4dp">
+
+        <ImageView
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:src="@drawable/icon"
+            android:layout_marginEnd="4dp" />
+
+        <EditText
+            android:id="@+id/ipInput"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:hint="PC IP"
+            android:textColor="@color/sc_teal"
+            android:textColorHint="@color/sc_dark_teal"
+            android:inputType="text"
+            android:background="@color/sc_frame_bg"
+            android:padding="8dp"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OFFLINE"
+            android:textColor="@color/sc_teal"
+            android:textSize="10sp"
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp" />
+
+        <!-- Centered Page Navigation -->
+        <LinearLayout
+            android:id="@+id/pageNavLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/pageDropdownText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Page 1 ▼"
+                android:textColor="@color/sc_teal"
+                android:textSize="18sp"
+                android:padding="10dp"
+                android:background="@color/sc_frame_bg"
+                android:gravity="center"
+                android:minWidth="180dp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/connectBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connect"
+            android:textSize="12sp"
+            android:backgroundTint="@color/sc_dark_teal"
+            android:textColor="@color/white"
+            android:layout_marginStart="4dp" />
+
+        <Button
+            android:id="@+id/exitBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Exit"
+            android:textSize="12sp"
+            android:backgroundTint="#aa2222"
+            android:textColor="@color/white"
+            android:layout_marginStart="4dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pairingLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:background="@color/sc_frame_bg"
+        android:padding="4dp">
+
+        <EditText
+            android:id="@+id/pairingCodeInput"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="6-digit code"
+            android:textColor="@color/sc_amber"
+            android:textColorHint="@color/sc_dark_teal"
+            android:inputType="number"
+            android:background="@color/sc_bg"
+            android:padding="8dp" />
+
+        <Button
+            android:id="@+id/pairBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pair"
+            android:backgroundTint="@color/sc_amber"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="8dp">
+
+        <ImageView
+            android:id="@+id/backgroundImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+
+        <androidx.gridlayout.widget.GridLayout
+            android:id="@+id/buttonGrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+</LinearLayout>

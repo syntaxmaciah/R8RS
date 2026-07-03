@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sc_teal">#00f5ff</color>
+    <color name="sc_dark_teal">#005f6b</color>
+    <color name="sc_amber">#ffb400</color>
+    <color name="sc_bg">#0a141a</color>
+    <color name="sc_frame_bg">#0f1f26</color>
+    <color name="sc_header_bg">#162a33</color>
+    <color name="sc_border">#1f3d4a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

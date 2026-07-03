@@ -1,0 +1,22 @@
+.
+Bug Fixes
+---------------------------------------------------------------------------------
+
+tried to fix DPI. no Luck!
+
+---------------------------------------------------------------------------------
+added ability to open web pages
+added ability to open files and apps
+added macro editing
+.
+Bugs Fixed
+.
+fixed hold key + key ("key a" down  + tap "key b" "key a" up)
+.
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+Tactical Command Deck (TCD)
+----------------------------
+
+Version: [1.1 Alfa]
+
+
+Thank you for being part of the Tactical Command Deck testing phase! 
+Your feedback is invaluable in making this the best remote control 
+interface for games like Star Citizen and beyond.
+
+Thanks to all our testers for their time, patience, and 
+detailed bug reports.
+
+- Hunare
+- Old Man Gaming 
+- Zencoder
+
+Special Thanks to:
+
+- Old Man Gaming 
+
+for his patience and feed back and for giving me the idea for this project,
+and a huge THANK YOU For your (DPI) settings that i still haven't fixed yet!
+
+

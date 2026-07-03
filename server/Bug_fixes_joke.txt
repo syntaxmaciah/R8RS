@@ -1,0 +1,75 @@
+{
+Removed Syntax Error.
+Removed Syntax Error... again.
+Removed Syntax Error. It came back.
+Removed Syntax Error. It was lonely.
+Replaced Syntax Error with 404 Error. It didn't help
+}
+
+{
+Added Syntax Error.
+Added intentional Syntax Error.
+Added accidental Syntax Error.
+Added a Syntax Error to fix another Syntax Error.
+}
+
+{
+Fixed Syntax Error.
+Fixed the fix for the Syntax Error.
+Fixed a typo that caused a Syntax Error.
+Fixed a typo that fixed the Syntax Error.
+}
+
+{
+Removed Herobrine.
+Removed Herobrine... again.
+Removed Herobrine, just to be safe.
+Added Herobrine, then removed Herobrine.
+Herobrine was never here... officially.
+Herobrine definitely wasn't responsible for the Syntax Error.
+Herobrine added the Syntax Error, removed Herobrine, removed the Syntax Error.
+Removed Syntax Error, then removed Herobrine. Priorities.
+}
+
+{
+Herobrine added Herobrine, removed duplicate Herobrine.
+Syntax Error added Syntax Error, removed duplicate Syntax Error.
+Herobrine removed Syntax Error, Syntax Error removed Herobrine.
+}
+
+{
+Syntax Error is now a feature, feature is now a bug, bug is now documented.
+Documentation contains a Syntax Error, documentation removed.
+Compiler no longer cries, compiler cries again.
+Works on my machine, no longer works on my machine.
+}
+
+{
+Optimized Syntax Error.
+Deprecated Syntax Error.
+Refactored Syntax Error.
+Improved Syntax Error performance.
+}
+
+{
+Balanced parentheses, unbalanced parentheses.
+Added missing semicolon, removed unnecessary semicolon, added unnecessary semicolon.
+Removed one too many brackets, added one too many brackets.
+}
+
+{
+Removed bug.
+Bug removed itself.
+Bug has returned.
+Bug has been promoted to feature.
+}
+
+{
+Undefined behavior is now defined, undefined behavior is undefined again.
+}
+
+{
+Removed Herobrine.
+Removed Syntax Error.
+Removed Herobrine... again.
+}

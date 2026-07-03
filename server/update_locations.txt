@@ -1,0 +1,5 @@
+update locations
+
+APK "https://drive.google.com/file/d/1iKJkQe2x0EyWOW7T2gDqvPZOFFl5xCIK/view?usp=sharing"
+TCD "https://drive.google.com/file/d/1YogVThwqWAURzvO_kqDXUQoCEO2o8PUP/view?usp=sharing"
+VERSION CHECK "https://docs.google.com/document/d/1Ih0ncz6rIcAEEiyiQ9TQ4VQVINcnnL7A4zI4LlMbkUg/edit?usp=sharing"
