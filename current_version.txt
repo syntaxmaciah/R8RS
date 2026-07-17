@@ -1,5 +1,5 @@
 1.4.7
-1.4.7 (Build 13) Editor
-1.4.7 (Build 13) Android App
+1.4.7 (Build 15) Editor
+1.4.7 (Build 14) Android App
 https://github.com/syntaxmaciah/R8RS/releases/download/v1.4.7/TCD_Update.zip
 https://github.com/syntaxmaciah/R8RS/releases/download/v1.4.7/TCD_v1.4.7.apk
